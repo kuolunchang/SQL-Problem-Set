@@ -5,8 +5,8 @@ This repository contains leetcode/ past interview SQL problems as well as soluti
 
 | # | Problems | Solutions | Level |
 | --- | --- | --- | --- |
-| `1` | Salary differences | SQL | Easy |
-| `2` | Finding updated records | SQL | Easy |
-| `3` | Number of bathrooms and bedrooms | SQL | Easy |
-| `4` | Cutstomer details | SQL | Easy |
-| `5` | Popularity of Hack | SQL | Easy |
+| `1` | Salary differences | PostgreSQL | Easy |
+| `2` | Finding updated records | PostgreSQL | Easy |
+| `3` | Number of bathrooms and bedrooms | PostgreSQL | Easy |
+| `4` | Cutstomer details | PostgreSQL | Easy |
+| `5` | Popularity of Hack | PostgreSQL | Easy |
