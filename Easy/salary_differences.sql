@@ -5,7 +5,7 @@
 -- Table: db_employee
 
 -- +---------------+---------+
--- | Column Name  | Type    |
+-- | Column Name   | Type    |
 -- +---------------+---------+
 -- | id            | int     |
 -- | first_name    | varchar |
