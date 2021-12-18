@@ -10,3 +10,4 @@ This repository contains leetcode/ past interview SQL problems as well as soluti
 | `3` | Number of bathrooms and bedrooms | PostgreSQL | Easy |
 | `4` | Cutstomer details | PostgreSQL | Easy |
 | `5` | Popularity of Hack | PostgreSQL | Easy |
+| `6` | #Units per Nationality | PostgreSQL | Medium |
